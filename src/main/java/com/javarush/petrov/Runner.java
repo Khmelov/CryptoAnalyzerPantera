@@ -2,6 +2,6 @@ package com.javarush.petrov;
 
 public class Runner {
     public static void main(String[] args) {
-        System.out.println("Welcome to Petrov!!!");
+        System.out.println("Welcome to Petrov!");
     }
 }
